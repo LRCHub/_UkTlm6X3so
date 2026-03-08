@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "YOUNG LUV",
+  "base_artist": "STAYC",
+  "createdAt": "2026-03-08T17:58:36.710280Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "YOUNG LUV",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/01_YOUNG_LUV_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "YOUNG LUV",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/02_YOUNG_LUV_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "YOUNG LUV",
+      "artist": "STAYC (스테이씨)",
+      "has_synced": true,
+      "path": "select/03_YOUNG_LUV_STAYC_(스테이씨).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YOUNG LUV (YOUNG LUV)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/04_YOUNG_LUV_(YOUNG_LUV)_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "YOUNG LUV (YOUNG LUV)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/05_YOUNG_LUV_(YOUNG_LUV)_STAYC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YOUNG LUV",
+      "artist": "STAYC",
+      "has_synced": false,
+      "path": "select/pl_01_YOUNG_LUV_STAYC.txt"
+    }
+  ]
+}
